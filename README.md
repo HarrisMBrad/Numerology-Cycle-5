@@ -5,7 +5,9 @@ Welcome to your **personalized journaling system** powered by numerology, reflec
 ---
 
 ## 🛠️ System Purpose
+
 Voro8 is a daily introspection framework using:
+
 - ✍️ **Journaling prompts**
 - 🔢 **Numerology signals**
 - 🌀 **Context sync logs**
